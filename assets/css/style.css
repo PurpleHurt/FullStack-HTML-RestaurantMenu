@@ -13,9 +13,14 @@ h2 {
 
 h3, 
 p,
-li {
+li,
+a ,
+footer {
     color: green;
-}
+    text-decoration:none;
+    list-style-type: none;
+    }
+
 
 img {
     width: 100%;
